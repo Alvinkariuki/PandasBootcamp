@@ -73,8 +73,11 @@ categ_test_df['Item_Store_Sales'] = ''
                                                                     # Initialize Our Training Values which are Numeric
 merged_df = pd.concat([categ_train_df, categ_test_df])
 
+"Code iS good For all things"
 
+doub = lambda x:x*2
 
+print(doub(3))
 
 
 
