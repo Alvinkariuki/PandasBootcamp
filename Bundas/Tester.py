@@ -75,9 +75,6 @@ merged_df = pd.concat([categ_train_df, categ_test_df])
 
 "Code iS good For all things"
 
-doub = lambda x:x*2
-
-print(doub(3))
 
 
 
